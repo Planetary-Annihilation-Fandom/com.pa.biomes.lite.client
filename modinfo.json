@@ -27,6 +27,10 @@
         ]
     },
 
+        "dpendencies":[
+        "com.pa.biomes.lite.server"
+    ],
+
     "framework": false,
 
     "signature" : "Enjoy this modification!",
